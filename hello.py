@@ -1,8 +1,6 @@
 # Jackson Negus
 
-def greeting(msg):
-
-    print(str(msg))
+from helper import *
 
 greeting("hello")
 
